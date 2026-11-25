@@ -1,0 +1,59 @@
+
+enquiry_id,message,service,priority
+1,"I need an AI chatbot for my business",AI Development,High
+2,"Looking for a website for my startup",Web Development,High
+3,"I want to automate customer support",AI Development,High
+4,"Need a mobile application for my company",App Development,High
+5,"Can you help improve my website SEO",Digital Marketing,Medium
+6,"Interested in cloud migration services",Cloud Services,High
+7,"Need an AI model for sales prediction",AI Development,High
+8,"I want to develop an ecommerce website",Web Development,High
+9,"Need help managing cloud infrastructure",Cloud Services,Medium
+10,"Looking for social media marketing",Digital Marketing,Medium
+11,"I need a chatbot for customer enquiries",AI Development,High
+12,"Need a simple business website",Web Development,Medium
+13,"Looking for an Android application",App Development,Medium
+14,"Need assistance with AWS deployment",Cloud Services,High
+15,"Want to improve Google search ranking",Digital Marketing,Low
+16,"Interested in AI powered document processing",AI Development,High
+17,"Need website maintenance support",Web Development,Low
+18,"Looking for mobile app development quotation",App Development,High
+19,"Need cloud hosting for my application",Cloud Services,Medium
+20,"Want Instagram advertising services",Digital Marketing,Low
+21,"Need machine learning for customer segmentation",AI Development,High
+22,"Looking for responsive website design",Web Development,Medium
+23,"Need iOS application development",App Development,Medium
+24,"Need cloud security consultation",Cloud Services,High
+25,"Want help with online brand promotion",Digital Marketing,Low
+26,"Need an AI assistant for employees",AI Development,High
+27,"Interested in website redesign",Web Development,Medium
+28,"Need an app for booking appointments",App Development,High
+29,"Looking for server monitoring services",Cloud Services,Low
+30,"Need email marketing campaign",Digital Marketing,Low
+31,"Want to build an AI powered recommendation system",AI Development,High
+32,"Need a landing page for my company",Web Development,Low
+33,"Looking for cross platform app development",App Development,Medium
+34,"Need AWS cloud architecture consultation",Cloud Services,High
+35,"Want SEO audit for my website",Digital Marketing,Medium
+36,"Need automated lead qualification using AI",AI Development,High
+37,"Need a portfolio website",Web Development,Low
+38,"Want a mobile application for online shopping",App Development,High
+39,"Need cloud backup solutions",Cloud Services,Medium
+40,"Interested in paid advertising management",Digital Marketing,Medium
+41,"Need a basic website for my small business, no immediate deadline",Web Development,Low
+42,"Looking for an app development quotation for a future project",App Development,Low
+43,"Can you share information about your AI development services?",AI Development,Low
+44,"We may need cloud migration next quarter, please share details",Cloud Services,Low
+45,"Interested in digital marketing packages for future planning",Digital Marketing,Low
+46,"Please send your web development portfolio when convenient",Web Development,Low
+47,"We are exploring options for a mobile application next year",App Development,Low
+48,"Need general information about machine learning solutions",AI Development,Low
+49,"Please share cloud hosting plans for our upcoming business",Cloud Services,Low
+50,"We are comparing digital marketing agencies for a future campaign",Digital Marketing,Low
+51,"Would like to understand your website maintenance services",Web Development,Low
+52,"We need a website redesign within the next month",Web Development,Medium
+53,"Please provide an estimate for our planned mobile application",App Development,Medium
+54,"We want to explore an AI chatbot for customer support this quarter",AI Development,Medium
+55,"Our company is planning cloud migration and needs a proposal",Cloud Services,Medium
+56,"We need a digital marketing strategy for an upcoming product launch",Digital Marketing,Medium
+57,"Please arrange a discussion about integrating AI into our existing software",AI Development,Medium
